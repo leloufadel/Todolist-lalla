@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marvin-nyalik/Webpack-Boilerplate.git"
+    "url": "git+https://github.com/leloufadel/Webpack-Boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marvin-nyalik/Webpack-Boilerplate/issues"
+    "url": "https://github.com/leloufadel/Webpack-Boilerplate/issues"
   },
-  "homepage": "https://github.com/marvin-nyalik/Webpack-Boilerplate#readme",
+  "homepage": "https://github.com/leloufadel/Webpack-Boilerplate#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.8.1",
